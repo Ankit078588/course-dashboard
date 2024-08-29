@@ -1,0 +1,67 @@
+// Here you can add other styles
+.form-control{
+    width: 98%;
+}
+.border_ul{
+    border-radius: 7px;
+}
+.linkto{
+    text-decoration: none;
+}
+.form-select{
+    width: 98%;
+}
+.cardform{
+    padding: 20px;
+}
+.editicon{
+    font-size: 22px;
+}
+.deleteicon{
+    font-size: 22px;
+}
+
+.celltext{
+    word-wrap: break-word;
+}
+.Link{
+    color: white;
+}
+a{
+    color: white;
+}
+.fa{
+    font-size: 20px;
+}
+.teacher:hover{
+    background-color: rgb(47, 47, 117);
+    color: white;
+}
+.teacher:active{
+    background-color: rgb(44, 44, 187);
+}
+.admin:hover{
+    background-color: rgb(47, 47, 117);
+    color: white;
+}
+.admin:active{
+    background-color: rgb(44, 44, 187);
+}
+.widgetheight{
+    height: 164px;
+}
+.isologo{
+    opacity: 0.5;
+}
+// .tab{
+//     width: 30%;}
+ @media (max-width: 600px) {
+        .cardpic{
+          display: none;
+    
+        }
+        .tab{
+            width: 46%; 
+        }
+      }
+      
